@@ -17,6 +17,7 @@ What's Inside:
 
 
 Who Will Benefit:
+
 •  Learners: Ideal for those newly learning data structures and algorithms.
 
 
